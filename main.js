@@ -1,0 +1,9 @@
+upperlipX=0
+upperlipY=0
+image(p5.js){
+    upperlipX=0
+    upperlipY=0
+}
+Preload(){
+    image=('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fcurly-moustache-isolated-on-white-gm160350753-22789548&psig=AOvVaw2vVYhmztluAjUFD6FZAYQP&ust=1707868499886000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMClm46Ap4QDFQAAAAAdAAAAABAD')
+}
